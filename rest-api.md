@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: RestFul接口
-permalink: /docs-cn/rest-api/
+permalink: /rest-api/
 ---
 
 输入数据编码格式（针对POST、PUT方法）: x-www-form-urlencoded
