@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: 安装
-permalink: configuration-db/
+permalink: /configuration-db/
 ---
 
 # 数据库配置
