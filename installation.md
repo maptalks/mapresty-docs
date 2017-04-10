@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: 安装
-permalink: /docs-cn/installation/
+permalink: installation/
 ---
 
 # 安装
