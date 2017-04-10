@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: 安装
-permalink: /docs-cn/spatial-db/
+permalink: /spatial-db/
 ---
 
 # 空间数据库的使用
